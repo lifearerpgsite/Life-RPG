@@ -1,11 +1,9 @@
 {
-  "name": "Life RPG Neon",
+  "name": "Life RPG",
   "short_name": "Life RPG",
-  "description": "Rotinas, missões, aventuras e recompensas pessoais",
-  "start_url": "./index.html",
-  "scope": "./",
+  "start_url": "./",
   "display": "standalone",
-  "background_color": "#0c0614",
-  "theme_color": "#0c0614",
-  "orientation": "portrait"
+  "background_color": "#0b1020",
+  "theme_color": "#0b1020",
+  "description": "Life RPG com salvamento diário e gráfico de evolução"
 }
