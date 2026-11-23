@@ -1,9 +1,12 @@
 {
-  "name": "Life RPG",
+  "name": "Life RPG Neon",
   "short_name": "Life RPG",
-  "start_url": "./",
+  "description": "Sua vida, seu jogo! Rotinas, missões e progresso.",
+  "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
-  "background_color": "#0b1020",
-  "theme_color": "#0b1020",
-  "description": "Life RPG com salvamento diário e gráfico de evolução"
+  "orientation": "portrait",
+  "background_color": "#080510",
+  "theme_color": "#090511",
+  "lang": "pt-BR"
 }
